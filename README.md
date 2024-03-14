@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/simple-tourism-website.git
+   git clone https://github.com/adisharma-git/BOOTSTRAP-Project
 2. Open the project folder in your code editor.
 
 ## Usage
