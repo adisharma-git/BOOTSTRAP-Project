@@ -1,10 +1,10 @@
-# BOOTSTRAP-Project
-## Simple Tourism Website
+<h1 align="center">BOOTSTRAP-Project</h1>
 
 Welcome to the Simple Tourism Website project! This is a basic website created using HTML, CSS, and Bootstrap. The site provides information about cities like Bareilly, Dehradun, and states like Bihar and Uttar Pradesh.
 
 ## Table of Contents
 - [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
@@ -12,7 +12,11 @@ Welcome to the Simple Tourism Website project! This is a basic website created u
 - [Contributing](#contributing)
 
 ## Demo
-You can view a live demo of this website here shortly.
+You can view a live demo of this website [HERE](https://adisharma-git.github.io/BOOTSTRAP-Project/).
+
+## Screenshots
+<img src="https://github.com/adisharma-git/BOOTSTRAP-Project/blob/main/imgaes/Screenshot1.png" align="center"><hr>
+<img src="https://github.com/adisharma-git/BOOTSTRAP-Project/blob/main/imgaes/Screenshot2.png" align="center">
 
 ## Features
 - Information about tourist destinations in Bareilly, Dehradun, Bihar, and Uttar Pradesh.
@@ -57,4 +61,4 @@ git push origin feature/AmazingFeature
 
 
 
-If you find this project useful or use it as a template for your own website, please provide proper credits by linking back to this repository. Your support is greatly appreciated! 🌟
+If you find this project useful or use it as a template for your own website, please provide proper credits by linking back to this repository. Your support is greatly appreciated! 🌟<hr>
